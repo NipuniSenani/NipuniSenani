@@ -1,5 +1,5 @@
 # 💫 About Me:
-####### Hi, I'm Nipuni 👋<br>🔭 I’m currently working modeling collective dynamics using data driven approaches <br>🌱 I’m learning to implement Transformer models from scratch  for fun<br>👯 I’m looking to collaborate on deep learning research and applications  <br>💬 Ask me about PyTorch, neural networks, and mathematical modeling  <br>📫 How to reach me: nipunisdsr@gmail.com<br>⚡ Fun fact: I am nailing it all!
+###### Hi, I'm Nipuni 👋<br>🔭 I’m currently working modeling collective dynamics using data driven approaches <br>🌱 I’m learning to implement Transformer models from scratch  for fun<br>👯 I’m looking to collaborate on deep learning research and applications  <br>💬 Ask me about PyTorch, neural networks, and mathematical modeling  <br>📫 How to reach me: nipunisdsr@gmail.com<br>⚡ Fun fact: I am nailing it all!
 
 
 ## 🌐 Socials:
